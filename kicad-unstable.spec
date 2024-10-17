@@ -25,7 +25,7 @@ Release:        1.1
 Summary:        EDA software suite for the creation of schematics and PCB (development version)
 License:        GPL-2.0+
 Group:          Productivity/Scientific/Electronics
-Url:            http://kicad-pcb.org
+Url:            https://kicad-pcb.org
 # https://launchpad.net/kicad/product
 Source:         http://bazaar.launchpad.net/~kicad-product-committers/kicad/product/tarball/%{bzr_rev}#/kicad-%{version}.tar.gz
 Source2:        boost_1_54_0.tar.bz2
